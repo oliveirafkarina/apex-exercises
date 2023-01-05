@@ -9,4 +9,10 @@ string tempvar = 'Enter_your_name_here';
 System.debug('Hello World!');
 System.debug('My name is ' + tempvar);
 System.debug('Teste');
-
+public static String Test (){
+    static void method testOfGit (){
+        string hello;
+        hello = 'Hello, How are you doing?';
+        return hello;
+    }
+}
